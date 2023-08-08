@@ -1,1 +1,26 @@
 /* Write your CSS here! */
+body {background-color: rgba(0, 255, 255, 0.33);
+}
+h1{
+    font-size: 36px;
+    
+}
+h2{
+    font-size: 18px;
+}
+h3{
+    font-size: 18px;
+}
+h4{
+    font-size: 18px;
+}
+h5{
+    font-size:18px;
+}
+h6{
+    font-size: 18px;
+}
+.image-class {
+    width: 800px;
+    height: 400px;
+}
